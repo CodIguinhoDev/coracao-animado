@@ -6,6 +6,7 @@ Este projeto apresenta um coração animado que pulsa infinitamente e é um exem
 - Efeito de pulsar/bater contínuo
 
 Tecnologias Utilizadas
+
 HTML5 e CSS3 (animações com `@keyframes`)
 
 ![Image](https://github.com/user-attachments/assets/84875e93-7a34-493b-8a8c-8e3ada310fb9)
